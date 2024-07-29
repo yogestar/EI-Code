@@ -221,11 +221,4 @@ The Virtual Classroom application provides a structured way to manage classroom 
 - **Online Learning Platforms**: To provide administrative functionality for virtual classrooms.
 - **Training Centers**: To handle scheduling, assignments, and student management for various training programs.
 
-## How to Run the Application
-
-1. **Compile the Code**:
-   Ensure that you have Java Development Kit (JDK) installed. Use the following command to compile the code:
-
-   ```sh
-   javac -d bin src/main/java/com/example/virtualclassroom/*.java src/main/java/com/example/virtualclassroom/commands/*.java src/main/java/com/example/virtualclassroom/exceptions/*.java src/main/java/com/example/virtualclassroom/entities/*.java
 
